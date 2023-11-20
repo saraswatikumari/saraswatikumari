@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanariashorizontedesalud.itop.es%2F%3Fm%3D25-backend-tools-to-facilitate-web-development-codilime-qq-60Anv3HQ&psig=AOvVaw3TBkiYKm6rHuLc_1Zqb7kS&ust=1700546974219000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjCm6b10YIDFQAAAAAdAAAAABAw)
+![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/web-app-tech-stack.png)
 <h1 align="center">Hi 👋, I'm Saraswati Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
