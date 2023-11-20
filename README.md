@@ -1,4 +1,4 @@
-![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/web-app-tech-stack.png)
+![MasterHead](https://www.apptha.com/blog/wp-content/uploads/2019/05/Hire-full-stack-developer.jpg)
 <h1 align="center">Hi 👋, I'm Saraswati Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
